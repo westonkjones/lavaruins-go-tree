@@ -1,0 +1,4 @@
+dash==0.38.0
+pytest
+pytest-cookies
+pytest-dash==2.1.1
