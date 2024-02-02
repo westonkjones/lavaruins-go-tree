@@ -1,4 +1,4 @@
-dash==0.38.0
+dash==2.15.0
 pytest
 pytest-cookies
 pytest-dash==2.1.1
